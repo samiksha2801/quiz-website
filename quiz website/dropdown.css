@@ -1,0 +1,41 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: rgb(231, 237, 203);
+
+}
+
+#search-container>p{
+    font-style: normal;
+    color: rgb(86, 91, 64);
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#topic-dropdown{
+    align-content: center;
+    padding-left: 20px;
+    padding-right: 10px;
+    color:rgb(84, 91, 53) ;
+    background-color: rgb(247, 248, 245);
+    border-color: rgb(136, 155, 58);
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+button{
+    color: rgb(62, 66, 44);
+    border-color:rgb(137, 143, 108) ;
+}
+
+a{
+    color:rgb(62, 66, 44);
+}
+
+
+
+
+
